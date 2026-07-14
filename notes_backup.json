@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "title": "💡 App Ideas",
+    "body": "Create an automated garden irrigation tracker built with Arduino and React Native. Next idea: NoteVault productivity suite.",
+    "date": "Jul 12, 2026"
+  },
+  {
+    "id": "2",
+    "title": "🛒 Weekly Grocery List",
+    "body": "- Almond milk\n- Whole wheat sourdough bread\n- Organic avocados\n- Dark roast coffee beans",
+    "date": "Jul 14, 2026"
+  }
+]
