@@ -489,3 +489,23 @@ body::after {
 ::-webkit-scrollbar-thumb:hover {
     background: rgba(255, 255, 255, 0.2);
 }
+
+/* Golden Amber Glowing Star for Active Favorites */
+.action-btn.fav-btn.active {
+    color: #fbbf24;
+    background: rgba(251, 191, 36, 0.15);
+    border-color: rgba(251, 191, 36, 0.3);
+}
+
+.action-btn.fav-btn.active:hover {
+    color: #f59e0b;
+    background: rgba(251, 191, 36, 0.25);
+    box-shadow: 0 0 10px rgba(251, 191, 36, 0.3);
+}
+
+/* Slick Green color for Restore Note actions */
+.action-btn.restore-btn:hover {
+    color: #10b981;
+    background: rgba(16, 185, 129, 0.15);
+    border-color: rgba(16, 185, 129, 0.3);
+}
